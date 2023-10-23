@@ -1,0 +1,17 @@
+Q1. What is the maximum number of matches played by an individual player in a season?
+Q2. What is the highest average of a player in a season?
+Q3. What is the average number of matches played by the players in a season?
+Q4. Please check the correlation between all the features.
+Q5. Check the list of players who has an average greater than 50 as well strike rate above 120.
+Q6. Please check the list of players who has an average greater than 40 and balls faced above 100.
+Q7. Please check the list of players who scored more than 300 runs with an average greater than 45 & strike rate above 130.
+Q8. Players who scroed alteast one century in this season.
+Q9. Players who scored atleast 4 half centuries in this season.
+Q10. Check the list of players who hit more than 45 boundARIES and more than 10 sixes in this season.
+Q11. Plot a histogram of number of matches played in a season by players.
+Q12. Plot the histogram of balls faced by players.
+Q13. Top 20 players with most runs in a season.
+Q14. Bar chart for top 20 players with best strike rate in a season.
+Q15. Top 30 players with highest number of sixes.
+Q16. Scatter plot of runs scored by a player v/s balls faced in a season.
+Q17. KDE plot for averages on a season.
