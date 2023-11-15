@@ -1,0 +1,17 @@
+1. Check how many duplicate rows are present
+2. If any Duplicates Present, drop those duplicates
+3. Check null values in each column
+4. Delete the Rows which are having null values.
+5. Impute null values with Mode in Gender Column
+6. Impute null values with Mode in Self_Employed Column
+7. Impute null values with Median in LoanAmount Column
+8. Top 5 Records
+9. Export the dataframe in excel.
+10. Number of Rows and Columns in a DataFrame
+11. Print all Column names in a DF
+12. Generate the descriptive statistics of Numerical variables.
+13. Display numeric data type columns in a DF
+14. Select all data types of columns in a DF except object data type.
+15. Extract all the Records where Self_Employed is equal to Yes.
+16. Extract all the Records where Property_area is equal to urban in a DF.
+17. Print number of unique vaues in Gender column
